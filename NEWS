@@ -6,6 +6,8 @@ TRANSFERRING MAINTAINERSHIP
 
 NEW FEATURES
 
+    o (1.43.5) Allow SerialParam to call bpworkers<- (no-op) 
+
     o (1.43.2) Lazy-load S4 classes in workers; see
     <https://github.com/Bioconductor/BiocParallel/issues/262>
     <https://github.com/Bioconductor/BiocParallel/pull/270>
